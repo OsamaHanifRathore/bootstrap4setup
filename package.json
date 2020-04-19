@@ -1,0 +1,16 @@
+{
+  "name": "1st-week",
+  "version": "1.0.0",
+  "description": "\"test directory to learn node and git\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "author": "Osama Hanif Rathore",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
